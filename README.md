@@ -14,6 +14,9 @@
 
 ## Node JS
 - [centos 7 上安装 node.js](https://github.com/jaywcjlove/handbook/blob/master/Centos/node%E5%AE%89%E8%A3%85.md)  
+## 响应式
+- [响应式开发中合理选定CSS媒体查询分割点](https://segmentfault.com/a/1190000007567739)  
+- [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)  
 
 ## 产品
 - [哪些工具能极大提升产品经理的工作效率？](https://www.zhihu.com/question/24458648)  
