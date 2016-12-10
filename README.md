@@ -1,3 +1,14 @@
+## 移动 WEB
+- [一个轻量、可拓展、针对手机网页的前端开发者调试面板](https://github.com/WechatFE/vConsole/blob/dev/README_CN.md)  
+- [移动端web开发技巧](http://ljinkai.github.io/2015/06/06/mobile-web-skill/)
+- [移动前端不得不了解的HTML5 head 头标签](http://www.css88.com/archives/6410)
+- [Mobile Web Favorites](https://github.com/hoosin/mobile-web-favorites)
+- [mobileTech](https://github.com/jtyjty99999/mobileTech)
+- [移动开发规范概述](http://ljinkai.github.io/2015/07/24/mobile-develope-standard/)
+- [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+- [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+- [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
+
 ## PHP
 - [PHP 7.1 新特性一览](http://0x1.im/blog/php/features-of-php71.html)  
 - [野生程序员的成长之路](http://www.kkh86.com/it/index.html)  
