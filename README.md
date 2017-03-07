@@ -1,4 +1,5 @@
 ## 前端
+- [ES6学习笔记之Generator函数](http://hyuhan.com/2016/12/06/ES6-Generator/)
 - [webpack2 终极优化](http://mp.weixin.qq.com/s/YSqNhIf6qPDpGX3OBQOm9g)
 - [2016年 CSS 库、框架和工具新生榜 TOP 50](https://my.oschina.net/u/2903254/blog/809874)
 - [如何进行React组件单元测试](http://www.zcfy.cc/article/how-to-unit-testing-react-components-writing-objects-medium-2092.html)  
