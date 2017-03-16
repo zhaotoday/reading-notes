@@ -1,4 +1,5 @@
 ## 前端
+- [设计模式之 UML 类图](https://zhuanlan.zhihu.com/p/24576502)
 - [WEB前端规范](http://www.jianshu.com/p/66f066126f5f)
 - [80% 以上简历都是不合格的](http://b.codekk.com/detail/Trinea/%E4%B8%80%E5%A4%A7%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%AE%80%E5%8E%86%E9%83%BD%E6%98%AF%E4%B8%8D%E5%90%88%E6%A0%BC%E7%9A%84)
 - [ES6学习笔记之Generator函数](http://hyuhan.com/2016/12/06/ES6-Generator/)
