@@ -1,4 +1,5 @@
 ## 前端
+- [使用cnpm搭建企业内部私有NPM仓库](https://segmentfault.com/a/1190000000368906)
 - [EMOJI 表情](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 - [详解JS原型链与继承](http://louiszhai.github.io/2015/12/15/prototypeChain/)
 - [CSS中的BFC](https://github.com/dwqs/blog/issues/22)
