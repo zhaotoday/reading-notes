@@ -1,4 +1,5 @@
 ## 前端
+- [EMOJI 表情](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 - [详解JS原型链与继承](http://louiszhai.github.io/2015/12/15/prototypeChain/)
 - [CSS中的BFC](https://github.com/dwqs/blog/issues/22)
 - [前端开发负责人修炼指北](https://zhuanlan.zhihu.com/p/26550915)
