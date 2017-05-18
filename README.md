@@ -1,4 +1,5 @@
 ## 前端
+- [JavaScript全讲-实战技巧](https://mp.weixin.qq.com/s?__biz=MzAxNjQwNDY0MQ%3D%3D&idx=1&mid=404191963&sn=72b8916c67c2eccd793f79ccd02325ae#rd)
 - [使用cnpm搭建企业内部私有NPM仓库](https://segmentfault.com/a/1190000000368906)
 - [EMOJI 表情](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 - [详解JS原型链与继承](http://louiszhai.github.io/2015/12/15/prototypeChain/)
