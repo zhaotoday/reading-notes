@@ -1,4 +1,5 @@
 ## 前端
+- [自由程序员的3个开发技巧](https://sdk.cn/news/2495)
 - [一探前端开发中的JS调试技巧](http://seejs.me/2016/03/27/jsdebugger/)
 - [JavaScript全讲-实战技巧](https://mp.weixin.qq.com/s?__biz=MzAxNjQwNDY0MQ%3D%3D&idx=1&mid=404191963&sn=72b8916c67c2eccd793f79ccd02325ae#rd)
 - [使用cnpm搭建企业内部私有NPM仓库](https://segmentfault.com/a/1190000000368906)
