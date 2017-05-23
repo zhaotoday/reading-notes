@@ -1,4 +1,5 @@
 ## 前端
+- [npm scripts](https://www.zybuluo.com/yangfch3/note/249328)
 - [JavaScript API 设计原则](https://sdk.cn/news/2922)
 - [CSS 高级布局技巧 #14](https://github.com/sorrycc/blog/issues/14)
 - [你必须『收藏』的Github技巧](https://juejin.im/post/58509f8161ff4b00683a360c)
