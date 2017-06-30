@@ -1,4 +1,5 @@
 ## 前端
+- [单页应用 - Token 验证](https://juejin.im/post/58da720b570c350058ecd40f)
 - [极简 HTTP 接口设计状态码指南](https://my.oschina.net/upcyan/blog/916959)
 - [前端单元测试探索](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/UnitTest/%E5%89%8D%E7%AB%AF%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%8E%A2%E7%B4%A2.md)
 - [npm](https://hongqinma.github.io/2016/09/09/t9-npm/)
