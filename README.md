@@ -1,4 +1,5 @@
 ## 前端
+- [[译]在10分钟内解释JavaScript Async/Await](https://houxingyi.github.io/js/2017/07/15/AsyncAwaitTran.html)
 - [在着手开发一款移动应用之前，我们需要考虑哪些因素？](https://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=401472683&idx=1&sn=65e6760bc1a2163037c0f41f9945b542#rd)
 - [Server 端的认证——拥抱 JWT（一）](https://jothy1023.github.io/2016/11/04/server-authentication-using-jwt/)
 - [单页应用 - Token 验证](https://juejin.im/post/58da720b570c350058ecd40f)
