@@ -1,4 +1,5 @@
 ## 前端
+- [各种实用的 PHP 开源库推荐（2）](https://mp.weixin.qq.com/s/NNF3kZbu7IIKgH5JHGzGSg)
 - [PHPer 进击学习之路：各种实用的 PHP 开源库推荐（1）](https://mp.weixin.qq.com/s/LnQg_HusSbp-vG8ZTOIfwg)
 - [55个APP运营推广工具](https://zhuanlan.zhihu.com/p/22333247?refer=huodonghezi)
 - [微信小程序开发深入解读](https://juejin.im/post/597fd242f265da3e142a3115?utm_source=gold_browser_extension)
