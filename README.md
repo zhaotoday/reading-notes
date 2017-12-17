@@ -1,4 +1,5 @@
 ## 前端
+- [JS常用设计模式总结](https://fanerge.github.io/2017/11/12/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93/)
 - [前后端分离之JWT用户认证](http://lion1ou.win/2017/01/18/)
 - [各种实用的 PHP 开源库推荐（2）](https://mp.weixin.qq.com/s/NNF3kZbu7IIKgH5JHGzGSg)
 - [PHPer 进击学习之路：各种实用的 PHP 开源库推荐（1）](https://mp.weixin.qq.com/s/LnQg_HusSbp-vG8ZTOIfwg)
