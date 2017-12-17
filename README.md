@@ -1,4 +1,5 @@
 ## 前端
+- [一个小时学会MySQL数据库](http://www.cnblogs.com/best/p/6517755.html)
 - [莆田系](https://putianxi.github.io/)
 - [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
 - [30分钟SQL指南](https://github.com/shfshanyue/blog/tree/master/Articles/SQL-Guideline)
