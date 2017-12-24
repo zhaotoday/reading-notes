@@ -1,4 +1,5 @@
 ## 前端
+- [前端开发负责人修炼指北](https://mp.weixin.qq.com/s/otA2SA39YAGhnDjvojitoQ)
 - [18条APP推广经验，条条都是钱！](https://mp.weixin.qq.com/s/u1jXR0SUE_-DxCihi1RJEA)
 - [产品设计师的入门手册](https://zhuanlan.zhihu.com/p/24287132)
 - [React同构与极致的性能优化](https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/high-performance-isomorphic-app.md)
