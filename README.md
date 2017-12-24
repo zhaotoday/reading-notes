@@ -1,4 +1,5 @@
 ## 前端
+- [React同构与极致的性能优化](https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/high-performance-isomorphic-app.md)
 - [以同构之名，再谈 Redux/Vuex 的必要性](https://juejin.im/post/5a3708a7f265da432c23ef32)
 - [React 中的各种组件](https://qiutc.me/post/component-of-react.html)
 - [Vue.js 组件编码规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md)
