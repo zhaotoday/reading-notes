@@ -1,4 +1,5 @@
 ## 前端
+- [<head>标签中到底可以放什么?](https://github.com/xiaoyu2er/HEAD)
 - [前端开发负责人修炼指北](https://mp.weixin.qq.com/s/otA2SA39YAGhnDjvojitoQ)
 - [18条APP推广经验，条条都是钱！](https://mp.weixin.qq.com/s/u1jXR0SUE_-DxCihi1RJEA)
 - [产品设计师的入门手册](https://zhuanlan.zhihu.com/p/24287132)
