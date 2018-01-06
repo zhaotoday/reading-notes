@@ -1,4 +1,5 @@
 ## 前端
+- [Git中.gitignore的配置语法](https://www.jianshu.com/p/ea6341224e89)
 - [<head>标签中到底可以放什么?](https://github.com/xiaoyu2er/HEAD)
 - [前端开发负责人修炼指北](https://mp.weixin.qq.com/s/otA2SA39YAGhnDjvojitoQ)
 - [18条APP推广经验，条条都是钱！](https://mp.weixin.qq.com/s/u1jXR0SUE_-DxCihi1RJEA)
