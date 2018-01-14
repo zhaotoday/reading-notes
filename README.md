@@ -1,4 +1,5 @@
 ## 前端
+- [什么是Native、Web App、Hybrid、React Native 和 Weex？](https://segmentfault.com/a/1190000011154120)
 - [JSBridge深度剖析](http://blog.csdn.net/xiangzhihong8/article/details/66970600)
 - [Git中.gitignore的配置语法](https://www.jianshu.com/p/ea6341224e89)
 - [<head>标签中到底可以放什么?](https://github.com/xiaoyu2er/HEAD)
