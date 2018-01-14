@@ -1,4 +1,5 @@
 ## 前端
+- [浅谈Native、Web App、Hybrid、RN 和 Weex优劣](https://juejin.im/post/59c0b5265188256bd871e9bd)
 - [什么是Native、Web App、Hybrid、React Native 和 Weex？](https://segmentfault.com/a/1190000011154120)
 - [JSBridge深度剖析](http://blog.csdn.net/xiangzhihong8/article/details/66970600)
 - [Git中.gitignore的配置语法](https://www.jianshu.com/p/ea6341224e89)
