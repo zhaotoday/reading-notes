@@ -1,4 +1,5 @@
 ## 前端
+- [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [深入解读 JavaScript 中的面向对象编程](https://wwsun.github.io/2017/06/19/javascript-oop/)
 - [浅谈Native、Web App、Hybrid、RN 和 Weex优劣](https://juejin.im/post/59c0b5265188256bd871e9bd)
 - [什么是Native、Web App、Hybrid、React Native 和 Weex？](https://segmentfault.com/a/1190000011154120)
