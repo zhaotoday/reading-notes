@@ -1,4 +1,5 @@
 ## 前端
+- [常见的几种APP开发模式](http://naotu.baidu.com/file/6af15fcbb72f89926043779811b1ea44)
 - [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [深入解读 JavaScript 中的面向对象编程](https://wwsun.github.io/2017/06/19/javascript-oop/)
