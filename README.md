@@ -1,4 +1,5 @@
 ## 前端
+- [掌握jQuery插件开发，这篇文章就够了](https://www.jianshu.com/p/518d424d4994)
 - [常见的几种APP开发模式](http://naotu.baidu.com/file/6af15fcbb72f89926043779811b1ea44)
 - [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn)
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
