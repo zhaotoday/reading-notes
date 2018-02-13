@@ -1,4 +1,5 @@
 ## 前端
+- [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
 - [30-seconds-code ——utility集合](https://segmentfault.com/a/1190000012561967)
 - [你应该知道的jQuery的小技巧](https://segmentfault.com/a/1190000003911481)
