@@ -1,4 +1,5 @@
 ## 前端
+- [架构设计基础知识整理](https://blog.dreamtobe.cn/2016/03/09/oo_architecture/)
 - [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - [web前端学习资源分享](https://segmentfault.com/a/1190000010880049)
 - [30-seconds-code ——utility集合](https://segmentfault.com/a/1190000012561967)
