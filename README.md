@@ -1,4 +1,5 @@
 ## 前端
+- [ES6必知必会 （六）—— Class](https://www.jianshu.com/p/20f517a2b31c)
 - [设计模式](https://github.com/lvzhenbang/article/blob/master/design-pattern/index.md)
 - [不可错过的javascript迷你库](https://segmentfault.com/a/1190000004236363)
 - [架构设计基础知识整理](https://blog.dreamtobe.cn/2016/03/09/oo_architecture/)
