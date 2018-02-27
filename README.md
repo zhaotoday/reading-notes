@@ -1,4 +1,5 @@
 ## 前端
+- [代码质量管理——如何写出优雅的代码](https://juejin.im/post/5a93fb7a6fb9a0635e3d047b)
 - [怎样给文件命名才显得比较专业？](https://github.com/hujiulong/blog/issues/3)
 - [ES6必知必会 （六）—— Class](https://www.jianshu.com/p/20f517a2b31c)
 - [设计模式](https://github.com/lvzhenbang/article/blob/master/design-pattern/index.md)
