@@ -1,4 +1,5 @@
 ## 前端
+- [webpack2 终极优化](https://mp.weixin.qq.com/s/YSqNhIf6qPDpGX3OBQOm9g)
 - [67 个拯救前端开发者的工具、库和资源](https://juejin.im/entry/5a2b8f7451882559e22593f4?utm_source=gold_browser_extension)
 - [Eslint 规则说明](http://blog.csdn.net/helpzp2008/article/details/51507428)
 - [nodejs开发常用到的软件包总结(持续更新)](http://blog.5udou.cn/blog/nodejsKai-Fa-Chang-Yong-Dao-De-Ruan-Jian-Bao-Zong-Jie-Chi-Xu-Geng-Xin-27)
