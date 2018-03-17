@@ -1,4 +1,5 @@
 ## 前端
+- [发布项目到NPM](http://blog.csdn.net/ligang2585116/article/details/55505841)
 - [VS Code上手与超实用插件安利](https://juejin.im/post/5a17c4f1518825592c07ca1c?utm_source=gold_browser_extension)
 - [UI 设计小白入门论](https://juejin.im/post/5a2e8c17f265da43252940c7)
 - [技术面试需要掌握的基础知识](https://github.com/CyC2018/Interview-Notebook)
