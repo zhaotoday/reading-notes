@@ -1,4 +1,5 @@
 ## 前端
+- [Eslint 规则说明](http://blog.csdn.net/helpzp2008/article/details/51507428)
 - [nodejs开发常用到的软件包总结(持续更新)](http://blog.5udou.cn/blog/nodejsKai-Fa-Chang-Yong-Dao-De-Ruan-Jian-Bao-Zong-Jie-Chi-Xu-Geng-Xin-27)
 - [21分钟MySQL基础入门](https://github.com/jaywcjlove/mysql-tutorial/blob/master/21-minutes-MySQL-basic-entry.md)
 - [发布项目到NPM](http://blog.csdn.net/ligang2585116/article/details/55505841)
