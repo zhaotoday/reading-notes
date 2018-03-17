@@ -1,4 +1,5 @@
 ## 前端
+- [21分钟MySQL基础入门](https://github.com/jaywcjlove/mysql-tutorial/blob/master/21-minutes-MySQL-basic-entry.md)
 - [发布项目到NPM](http://blog.csdn.net/ligang2585116/article/details/55505841)
 - [VS Code上手与超实用插件安利](https://juejin.im/post/5a17c4f1518825592c07ca1c?utm_source=gold_browser_extension)
 - [UI 设计小白入门论](https://juejin.im/post/5a2e8c17f265da43252940c7)
