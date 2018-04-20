@@ -1,4 +1,5 @@
 ## 前端
+- [你需要知道的 nginx 基础配置](https://bailinlin.github.io/2017/05/18/nginx-basic/)
 - [使用Nginx实现反向代理](https://blog.csdn.net/daybreak1209/article/details/51549031)
 - [正向代理与反向代理【总结】](http://www.cnblogs.com/Anker/p/6056540.html)
 - [Vue.js Little Tips](https://github.com/ccforward/cc/issues/67)
