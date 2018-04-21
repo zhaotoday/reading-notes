@@ -1,4 +1,5 @@
 ## 前端
+- [Nginx 配置简述](https://www.barretlee.com/blog/2016/11/19/nginx-configuration-start/)
 - [nginx简明教程](https://yq.aliyun.com/articles/69548)
 - [你需要知道的 nginx 基础配置](https://bailinlin.github.io/2017/05/18/nginx-basic/)
 - [使用Nginx实现反向代理](https://blog.csdn.net/daybreak1209/article/details/51549031)
