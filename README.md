@@ -1,4 +1,6 @@
 ## 前端
+- [看看这些被同事喷的JS代码风格你写过多少](https://github.com/jackiewillen/blog/issues/14)
+- [如何写出优美的 JavaScript 代码？](https://www.zhihu.com/question/20635785)
 - [几种常见的CSS布局](https://github.com/ljianshu/Blog/issues/40)
 - [Nginx 配置简述](https://www.barretlee.com/blog/2016/11/19/nginx-configuration-start/)
 - [nginx简明教程](https://yq.aliyun.com/articles/69548)
