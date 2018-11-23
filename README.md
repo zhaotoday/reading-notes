@@ -1,4 +1,5 @@
 ## 前端
+- [设计师都应该掌握的设计理论知识](https://juejin.im/entry/5be97c0f5188252ea66ac9c1?utm_source=gold_browser_extension)
 - [超全面的UI设计切图规范，读这篇就够了！](https://juejin.im/entry/5af4f0f66fb9a07ac23ac77b)
 - [看看这些被同事喷的JS代码风格你写过多少](https://github.com/jackiewillen/blog/issues/14)
 - [如何写出优美的 JavaScript 代码？](https://www.zhihu.com/question/20635785)
