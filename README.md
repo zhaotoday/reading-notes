@@ -1,4 +1,5 @@
 ## 前端
+- [Nginx详解（正向代理、反向代理、负载均衡原理）](https://blog.csdn.net/tsummerb/article/details/79248015)
 - [微信扫码登录原理解析](https://blog.csdn.net/qq_25827845/article/details/78823861)
 - [大话PM|产品经理入门概念通识](https://juejin.im/post/5b5a71fbe51d45194909454a)
 - [只要一小时，零基础入门Docker](https://zhuanlan.zhihu.com/p/23599229)
