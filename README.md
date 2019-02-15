@@ -1,4 +1,5 @@
 ## 前端
+- [前端的各种库](http://yondu.vip/2018/10/11/WEB4e3bc7963dd25f1f271529fa9a8234f4/)
 - [Nginx详解（正向代理、反向代理、负载均衡原理）](https://blog.csdn.net/tsummerb/article/details/79248015)
 - [微信扫码登录原理解析](https://blog.csdn.net/qq_25827845/article/details/78823861)
 - [大话PM|产品经理入门概念通识](https://juejin.im/post/5b5a71fbe51d45194909454a)
